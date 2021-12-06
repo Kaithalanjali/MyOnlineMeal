@@ -137,7 +137,7 @@ html{
 {
     content:"";
     position:absolute;
-    background: url('image/meal.jpg') no-repeat center center/cover;
+    background: url('meal.jpg') no-repeat center center/cover;
     width:100%;
     height:258px;
     z-index:-1;
@@ -156,7 +156,7 @@ html{
     height:100%;
     z-index: -1;
     opacity:0.7;
-    background: url('image/contact.jpg') no-repeat center
+    background: url('contact.jpg') no-repeat center
     center/cover;
 
 }
