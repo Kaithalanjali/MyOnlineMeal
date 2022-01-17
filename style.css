@@ -145,10 +145,10 @@ html{
 }
 
 /* contact section  */
-#contact{
+/* #contact{
     position: relative;
 
-}
+} */
 #contact::before{
     position:absolute;
     content:"";
